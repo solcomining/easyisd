@@ -14,9 +14,7 @@ Compatible with all SWGEmu based Star Wars Galaxies servers.
 2) The Galaxy Harvester `galaxy_id` value for your server.
 
       In [https://galaxyharvester.net/resource.py/118/leonaore](https://galaxyharvester.net/resource.py/118/leonaore) the `galaxy_id` value is 118 (Finalizer).
-   
-      The `galaxy_id` value is unique per-server. Nothing will be submitted unless the user confirms the server name.
-   
+ 
 ### Installation
 1) Download the latest zip file release from https://github.com/solcomining/easyisd/releases
 2) Extract the contents of the zip file into a new folder, e.g. `C:\Games\Easyisd`
