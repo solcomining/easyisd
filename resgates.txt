@@ -1,0 +1,5997 @@
+{
+  "aluminum_agrinium": {
+    "group_id": "aluminum",
+    "parent_id": "metal_nonferrous",
+    "cr": [94, 307],
+    "cd": [358, 492],
+    "dr": [94, 307],
+    "hr": [270, 430],
+    "ma": [382, 568],
+    "oq": [1, 1000],
+    "sr": [370, 530],
+    "ut": [370, 530]
+  },
+  "aluminum_chromium": {
+    "group_id": "aluminum",
+    "parent_id": "metal_nonferrous",
+    "cr": [227, 440],
+    "cd": [442, 575],
+    "dr": [227, 440],
+    "hr": [370, 530],
+    "ma": [498, 685],
+    "oq": [1, 1000],
+    "sr": [470, 630],
+    "ut": [470, 630]
+  },
+  "aluminum_duralumin": {
+    "group_id": "aluminum",
+    "parent_id": "metal_nonferrous",
+    "cr": [361, 574],
+    "cd": [525, 658],
+    "dr": [361, 574],
+    "hr": [470, 630],
+    "ma": [615, 802],
+    "oq": [1, 1000],
+    "sr": [570, 730],
+    "ut": [570, 730]
+  },
+  "aluminum_linksteel": {
+    "group_id": "aluminum",
+    "parent_id": "metal_nonferrous",
+    "cr": [494, 707],
+    "cd": [608, 742],
+    "dr": [494, 707],
+    "hr": [570, 730],
+    "ma": [732, 918],
+    "oq": [1, 1000],
+    "sr": [670, 830],
+    "ut": [670, 830]
+  },
+  "aluminum_mandalore": {
+    "group_id": "aluminum",
+    "parent_id": "metal_nonferrous",
+    "cr": [600, 800],
+    "cd": [600, 900],
+    "dr": [600, 900],
+    "hr": [500, 800],
+    "ma": [600, 1000],
+    "oq": [300, 1000],
+    "sr": [500, 900],
+    "ut": [500, 900]
+  },
+  "aluminum_perovskitic": {
+    "group_id": "aluminum",
+    "parent_id": "metal_nonferrous",
+    "cr": [1, 1000],
+    "cd": [1, 1000],
+    "dr": [1, 1000],
+    "hr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "aluminum_phrik": {
+    "group_id": "aluminum",
+    "parent_id": "metal_nonferrous",
+    "cr": [627, 800],
+    "cd": [692, 800],
+    "dr": [627, 800],
+    "hr": [670, 800],
+    "ma": [848, 1000],
+    "oq": [1, 1000],
+    "sr": [770, 900],
+    "ut": [770, 900]
+  },
+  "aluminum_titanium": {
+    "group_id": "aluminum",
+    "parent_id": "metal_nonferrous",
+    "cr": [1, 174],
+    "cd": [300, 408],
+    "dr": [1, 174],
+    "hr": [200, 330],
+    "ma": [300, 452],
+    "oq": [1, 1000],
+    "sr": [300, 430],
+    "ut": [300, 430]
+  },
+  "amorphous_mandalore_1": {
+    "group_id": "gemstone_armophous",
+    "parent_id": "gemstone",
+    "er": [1, 900],
+    "cr": [600, 1000],
+    "dr": [600, 1000],
+    "hr": [600, 1000],
+    "ma": [300, 700],
+    "oq": [1, 1000],
+    "sr": [600, 1000],
+    "ut": [600, 1000]
+  },
+  "amorphous_mandalore_2": {
+    "group_id": "gemstone_armophous",
+    "parent_id": "gemstone",
+    "er": [1, 900],
+    "cr": [600, 1000],
+    "dr": [600, 1000],
+    "hr": [600, 1000],
+    "ma": [300, 700],
+    "oq": [1, 1000],
+    "sr": [600, 1000],
+    "ut": [600, 1000]
+  },
+  "armophous_baltaran": {
+    "group_id": "gemstone_armophous",
+    "parent_id": "gemstone",
+    "er": [696, 800],
+    "cr": [870, 1000],
+    "dr": [870, 1000],
+    "hr": [948, 1000],
+    "ma": [522, 600],
+    "oq": [1, 1000],
+    "sr": [870, 1000],
+    "ut": [870, 1000]
+  },
+  "armophous_baradium": {
+    "group_id": "gemstone_armophous",
+    "parent_id": "gemstone",
+    "er": [57, 185],
+    "cr": [71, 231],
+    "dr": [71, 231],
+    "hr": [628, 692],
+    "ma": [43, 139],
+    "oq": [1, 1000],
+    "sr": [71, 231],
+    "ut": [71, 231]
+  },
+  "armophous_bospridium": {
+    "group_id": "gemstone_armophous",
+    "parent_id": "gemstone",
+    "er": [1, 105],
+    "cr": [1, 131],
+    "dr": [1, 131],
+    "hr": [600, 652],
+    "ma": [1, 79],
+    "oq": [1, 1000],
+    "sr": [1, 131],
+    "ut": [1, 131]
+  },
+  "armophous_plexite": {
+    "group_id": "gemstone_armophous",
+    "parent_id": "gemstone",
+    "er": [217, 345],
+    "cr": [271, 431],
+    "dr": [271, 431],
+    "hr": [708, 772],
+    "ma": [163, 259],
+    "oq": [1, 1000],
+    "sr": [271, 431],
+    "ut": [271, 431]
+  },
+  "armophous_regvis": {
+    "group_id": "gemstone_armophous",
+    "parent_id": "gemstone",
+    "er": [137, 265],
+    "cr": [171, 331],
+    "dr": [171, 331],
+    "hr": [668, 732],
+    "ma": [103, 199],
+    "oq": [1, 1000],
+    "sr": [171, 331],
+    "ut": [171, 331]
+  },
+  "armophous_rudic": {
+    "group_id": "gemstone_armophous",
+    "parent_id": "gemstone",
+    "er": [297, 424],
+    "cr": [371, 530],
+    "dr": [371, 530],
+    "hr": [748, 812],
+    "ma": [223, 318],
+    "oq": [1, 1000],
+    "sr": [371, 530],
+    "ut": [371, 530]
+  },
+  "armophous_ryll": {
+    "group_id": "gemstone_armophous",
+    "parent_id": "gemstone",
+    "er": [377, 504],
+    "cr": [471, 630],
+    "dr": [471, 630],
+    "hr": [788, 852],
+    "ma": [283, 378],
+    "oq": [1, 1000],
+    "sr": [471, 630],
+    "ut": [471, 630]
+  },
+  "armophous_sedrellium": {
+    "group_id": "gemstone_armophous",
+    "parent_id": "gemstone",
+    "er": [456, 584],
+    "cr": [570, 730],
+    "dr": [570, 730],
+    "hr": [828, 892],
+    "ma": [342, 438],
+    "oq": [1, 1000],
+    "sr": [570, 730],
+    "ut": [570, 730]
+  },
+  "armophous_stygium": {
+    "group_id": "gemstone_armophous",
+    "parent_id": "gemstone",
+    "er": [536, 664],
+    "cr": [670, 830],
+    "dr": [670, 830],
+    "hr": [868, 932],
+    "ma": [402, 498],
+    "oq": [1, 1000],
+    "sr": [670, 830],
+    "ut": [670, 830]
+  },
+  "armophous_vendusii": {
+    "group_id": "gemstone_armophous",
+    "parent_id": "gemstone",
+    "er": [616, 744],
+    "cr": [770, 930],
+    "dr": [770, 930],
+    "hr": [908, 972],
+    "ma": [462, 558],
+    "oq": [1, 1000],
+    "sr": [770, 930],
+    "ut": [770, 930]
+  },
+  "copper_beyrllius": {
+    "group_id": "copper",
+    "parent_id": "metal_nonferrous",
+    "cr": [152, 294],
+    "cd": [594, 683],
+    "dr": [133, 257],
+    "hr": [285, 365],
+    "ma": [594, 683],
+    "oq": [1, 1000],
+    "sr": [394, 483],
+    "ut": [394, 483]
+  },
+  "copper_borocarbitic": {
+    "group_id": "copper",
+    "parent_id": "metal_nonferrous",
+    "cr": [1, 1000],
+    "cd": [1, 1000],
+    "dr": [1, 1000],
+    "hr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "copper_codoan": {
+    "group_id": "copper",
+    "parent_id": "metal_nonferrous",
+    "cr": [241, 383],
+    "cd": [650, 739],
+    "dr": [211, 335],
+    "hr": [335, 415],
+    "ma": [650, 739],
+    "oq": [1, 1000],
+    "sr": [450, 539],
+    "ut": [450, 539]
+  },
+  "copper_desh": {
+    "group_id": "copper",
+    "parent_id": "metal_nonferrous",
+    "cr": [1, 116],
+    "cd": [500, 572],
+    "dr": [1, 102],
+    "hr": [200, 265],
+    "ma": [500, 572],
+    "oq": [1, 1000],
+    "sr": [300, 372],
+    "ut": [300, 372]
+  },
+  "copper_diatium": {
+    "group_id": "copper",
+    "parent_id": "metal_nonferrous",
+    "cr": [329, 472],
+    "cd": [706, 794],
+    "dr": [288, 413],
+    "hr": [385, 465],
+    "ma": [706, 794],
+    "oq": [1, 1000],
+    "sr": [506, 594],
+    "ut": [506, 594]
+  },
+  "copper_kelsh": {
+    "group_id": "copper",
+    "parent_id": "metal_nonferrous",
+    "cr": [418, 560],
+    "cd": [761, 850],
+    "dr": [366, 490],
+    "hr": [435, 515],
+    "ma": [761, 850],
+    "oq": [1, 1000],
+    "sr": [561, 650],
+    "ut": [561, 650]
+  },
+  "copper_mandalore": {
+    "group_id": "copper",
+    "parent_id": "metal_nonferrous",
+    "cr": [600, 800],
+    "cd": [600, 1000],
+    "dr": [300, 700],
+    "hr": [400, 700],
+    "ma": [500, 1000],
+    "oq": [1, 1000],
+    "sr": [500, 800],
+    "ut": [500, 800]
+  },
+  "copper_mythra": {
+    "group_id": "copper",
+    "parent_id": "metal_nonferrous",
+    "cr": [507, 649],
+    "cd": [817, 906],
+    "dr": [444, 568],
+    "hr": [485, 565],
+    "ma": [817, 906],
+    "oq": [1, 1000],
+    "sr": [617, 706],
+    "ut": [617, 706]
+  },
+  "copper_platinite": {
+    "group_id": "copper",
+    "parent_id": "metal_nonferrous",
+    "cr": [596, 738],
+    "cd": [872, 961],
+    "dr": [521, 646],
+    "hr": [535, 615],
+    "ma": [872, 961],
+    "oq": [1, 1000],
+    "sr": [672, 761],
+    "ut": [672, 761]
+  },
+  "copper_polysteel": {
+    "group_id": "copper",
+    "parent_id": "metal_nonferrous",
+    "cr": [685, 800],
+    "cd": [928, 1000],
+    "dr": [599, 700],
+    "hr": [585, 650],
+    "ma": [928, 1000],
+    "oq": [1, 1000],
+    "sr": [728, 800],
+    "ut": [728, 800]
+  },
+  "copper_thallium": {
+    "group_id": "copper",
+    "parent_id": "metal_nonferrous",
+    "cr": [63, 205],
+    "cd": [539, 628],
+    "dr": [55, 180],
+    "hr": [235, 315],
+    "ma": [539, 628],
+    "oq": [1, 1000],
+    "sr": [339, 428],
+    "ut": [339, 428]
+  },
+  "corn_domesticated_chandrila": {
+    "group_id": "corn_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "corn_domesticated_corellia": {
+    "group_id": "corn_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "corn_domesticated_dantooine": {
+    "group_id": "corn_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "corn_domesticated_dathomir": {
+    "group_id": "corn_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "corn_domesticated_endor": {
+    "group_id": "corn_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "corn_domesticated_kuat": {
+    "group_id": "corn_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "corn_domesticated_lok": {
+    "group_id": "corn_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "corn_domesticated_naboo": {
+    "group_id": "corn_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "corn_domesticated_rori": {
+    "group_id": "corn_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "corn_domesticated_taanab": {
+    "group_id": "corn_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "corn_domesticated_talus": {
+    "group_id": "corn_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "corn_domesticated_tatooine": {
+    "group_id": "corn_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "corn_domesticated_yavin4": {
+    "group_id": "corn_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "corn_wild_chandrila": {
+    "group_id": "corn_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "corn_wild_corellia": {
+    "group_id": "corn_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "corn_wild_dantooine": {
+    "group_id": "corn_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "corn_wild_dathomir": {
+    "group_id": "corn_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "corn_wild_endor": {
+    "group_id": "corn_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "corn_wild_kuat": {
+    "group_id": "corn_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "corn_wild_lok": {
+    "group_id": "corn_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "corn_wild_naboo": {
+    "group_id": "corn_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "corn_wild_rori": {
+    "group_id": "corn_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "corn_wild_taanab": {
+    "group_id": "corn_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "corn_wild_talus": {
+    "group_id": "corn_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "corn_wild_tatooine": {
+    "group_id": "corn_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "corn_wild_yavin4": {
+    "group_id": "corn_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "crystalline_byrothsis": {
+    "group_id": "gemstone_crystalline",
+    "parent_id": "gemstone",
+    "er": [500, 581],
+    "cr": [1, 163],
+    "dr": [1, 163],
+    "hr": [700, 749],
+    "ma": [1, 66],
+    "oq": [1, 1000],
+    "sr": [300, 414],
+    "ut": [300, 414]
+  },
+  "crystalline_gallinorian": {
+    "group_id": "gemstone_crystalline",
+    "parent_id": "gemstone",
+    "er": [544, 644],
+    "cr": [88, 288],
+    "dr": [88, 288],
+    "hr": [726, 786],
+    "ma": [36, 116],
+    "oq": [1, 1000],
+    "sr": [361, 501],
+    "ut": [361, 501]
+  },
+  "crystalline_green_diamond": {
+    "group_id": "gemstone_crystalline",
+    "parent_id": "gemstone",
+    "er": [606, 706],
+    "cr": [213, 413],
+    "dr": [213, 413],
+    "hr": [764, 824],
+    "ma": [86, 166],
+    "oq": [1, 1000],
+    "sr": [449, 589],
+    "ut": [449, 589]
+  },
+  "crystalline_kerol_firegem": {
+    "group_id": "gemstone_crystalline",
+    "parent_id": "gemstone",
+    "er": [669, 769],
+    "cr": [338, 538],
+    "dr": [338, 538],
+    "hr": [801, 861],
+    "ma": [136, 215],
+    "oq": [1, 1000],
+    "sr": [536, 676],
+    "ut": [536, 676]
+  },
+  "crystalline_laboi_mineral_crystal": {
+    "group_id": "gemstone_crystalline",
+    "parent_id": "gemstone",
+    "er": [856, 956],
+    "cr": [713, 913],
+    "dr": [713, 913],
+    "hr": [914, 974],
+    "ma": [285, 365],
+    "oq": [1, 1000],
+    "sr": [799, 939],
+    "ut": [799, 939]
+  },
+  "crystalline_mandalore_1": {
+    "group_id": "gemstone_crystalline",
+    "parent_id": "gemstone",
+    "er": [700, 1000],
+    "cr": [600, 1000],
+    "dr": [500, 1000],
+    "hr": [600, 1000],
+    "ma": [1, 500],
+    "oq": [300, 1000],
+    "sr": [600, 1000],
+    "ut": [600, 1000]
+  },
+  "crystalline_mandalore_2": {
+    "group_id": "gemstone_crystalline",
+    "parent_id": "gemstone",
+    "er": [700, 1000],
+    "cr": [600, 1000],
+    "dr": [500, 1000],
+    "hr": [600, 1000],
+    "ma": [1, 500],
+    "oq": [300, 1000],
+    "sr": [600, 1000],
+    "ut": [600, 1000]
+  },
+  "crystalline_seafah_jewel": {
+    "group_id": "gemstone_crystalline",
+    "parent_id": "gemstone",
+    "er": [731, 831],
+    "cr": [463, 663],
+    "dr": [463, 663],
+    "hr": [839, 899],
+    "ma": [186, 265],
+    "oq": [1, 1000],
+    "sr": [624, 764],
+    "ut": [624, 764]
+  },
+  "crystalline_sormahil_firegem": {
+    "group_id": "gemstone_crystalline",
+    "parent_id": "gemstone",
+    "er": [794, 894],
+    "cr": [588, 788],
+    "dr": [588, 788],
+    "hr": [876, 936],
+    "ma": [235, 315],
+    "oq": [1, 1000],
+    "sr": [711, 851],
+    "ut": [711, 851]
+  },
+  "crystalline_vertex": {
+    "group_id": "gemstone_crystalline",
+    "parent_id": "gemstone",
+    "er": [919, 1000],
+    "cr": [838, 1000],
+    "dr": [838, 1000],
+    "hr": [951, 1000],
+    "ma": [335, 400],
+    "oq": [1, 1000],
+    "sr": [886, 1000],
+    "ut": [886, 1000]
+  },
+  "energy_renewable_unlimited_solar_chandrila": {
+    "group_id": "energy_renewable_unlimited_solar",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [200, 600]
+  },
+  "energy_renewable_unlimited_solar_corellia": {
+    "group_id": "energy_renewable_unlimited_solar",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [200, 600]
+  },
+  "energy_renewable_unlimited_solar_dantooine": {
+    "group_id": "energy_renewable_unlimited_solar",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [200, 600]
+  },
+  "energy_renewable_unlimited_solar_dathomir": {
+    "group_id": "energy_renewable_unlimited_solar",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [200, 600]
+  },
+  "energy_renewable_unlimited_solar_endor": {
+    "group_id": "energy_renewable_unlimited_solar",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [200, 600]
+  },
+  "energy_renewable_unlimited_solar_kuat": {
+    "group_id": "energy_renewable_unlimited_solar",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [200, 600]
+  },
+  "energy_renewable_unlimited_solar_lok": {
+    "group_id": "energy_renewable_unlimited_solar",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [200, 600]
+  },
+  "energy_renewable_unlimited_solar_naboo": {
+    "group_id": "energy_renewable_unlimited_solar",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [200, 600]
+  },
+  "energy_renewable_unlimited_solar_rori": {
+    "group_id": "energy_renewable_unlimited_solar",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [200, 600]
+  },
+  "energy_renewable_unlimited_solar_taanab": {
+    "group_id": "energy_renewable_unlimited_solar",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [200, 600]
+  },
+  "energy_renewable_unlimited_solar_talus": {
+    "group_id": "energy_renewable_unlimited_solar",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [200, 600]
+  },
+  "energy_renewable_unlimited_solar_tatooine": {
+    "group_id": "energy_renewable_unlimited_solar",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [200, 600]
+  },
+  "energy_renewable_unlimited_solar_yavin4": {
+    "group_id": "energy_renewable_unlimited_solar",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [200, 600]
+  },
+  "energy_renewable_unlimited_wind_chandrila": {
+    "group_id": "energy_renewable_unlimited_wind",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [1, 400]
+  },
+  "energy_renewable_unlimited_wind_corellia": {
+    "group_id": "energy_renewable_unlimited_wind",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [1, 400]
+  },
+  "energy_renewable_unlimited_wind_dantooine": {
+    "group_id": "energy_renewable_unlimited_wind",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [1, 400]
+  },
+  "energy_renewable_unlimited_wind_dathomir": {
+    "group_id": "energy_renewable_unlimited_wind",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [1, 400]
+  },
+  "energy_renewable_unlimited_wind_endor": {
+    "group_id": "energy_renewable_unlimited_wind",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [1, 400]
+  },
+  "energy_renewable_unlimited_wind_kuat": {
+    "group_id": "energy_renewable_unlimited_wind",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [1, 400]
+  },
+  "energy_renewable_unlimited_wind_lok": {
+    "group_id": "energy_renewable_unlimited_wind",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [1, 400]
+  },
+  "energy_renewable_unlimited_wind_naboo": {
+    "group_id": "energy_renewable_unlimited_wind",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [1, 400]
+  },
+  "energy_renewable_unlimited_wind_rori": {
+    "group_id": "energy_renewable_unlimited_wind",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [1, 400]
+  },
+  "energy_renewable_unlimited_wind_taanab": {
+    "group_id": "energy_renewable_unlimited_wind",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [1, 400]
+  },
+  "energy_renewable_unlimited_wind_talus": {
+    "group_id": "energy_renewable_unlimited_wind",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [1, 400]
+  },
+  "energy_renewable_unlimited_wind_tatooine": {
+    "group_id": "energy_renewable_unlimited_wind",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [1, 400]
+  },
+  "energy_renewable_unlimited_wind_yavin4": {
+    "group_id": "energy_renewable_unlimited_wind",
+    "parent_id": "energy_renewable_unlimited",
+    "oq": [500, 500],
+    "pe": [1, 400]
+  },
+  "fiberplast_chandrila": {
+    "group_id": "fiberplast",
+    "parent_id": "chemical",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "fiberplast_corellia": {
+    "group_id": "fiberplast",
+    "parent_id": "chemical",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "fiberplast_dantooine": {
+    "group_id": "fiberplast",
+    "parent_id": "chemical",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "fiberplast_dathomir": {
+    "group_id": "fiberplast",
+    "parent_id": "chemical",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "fiberplast_endor": {
+    "group_id": "fiberplast",
+    "parent_id": "chemical",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "fiberplast_gravitonic": {
+    "group_id": "fiberplast",
+    "parent_id": "chemical",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "fiberplast_kuat": {
+    "group_id": "fiberplast",
+    "parent_id": "chemical",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "fiberplast_lok": {
+    "group_id": "fiberplast",
+    "parent_id": "chemical",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "fiberplast_naboo": {
+    "group_id": "fiberplast",
+    "parent_id": "chemical",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "fiberplast_rori": {
+    "group_id": "fiberplast",
+    "parent_id": "chemical",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "fiberplast_taanab": {
+    "group_id": "fiberplast",
+    "parent_id": "chemical",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "fiberplast_talus": {
+    "group_id": "fiberplast",
+    "parent_id": "chemical",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "fiberplast_tatooine": {
+    "group_id": "fiberplast",
+    "parent_id": "chemical",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "fiberplast_yavin4": {
+    "group_id": "fiberplast",
+    "parent_id": "chemical",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "fruit_berries_chandrila": {
+    "group_id": "fruit_berries",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_berries_corellia": {
+    "group_id": "fruit_berries",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_berries_dantooine": {
+    "group_id": "fruit_berries",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_berries_dathomir": {
+    "group_id": "fruit_berries",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_berries_endor": {
+    "group_id": "fruit_berries",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_berries_kuat": {
+    "group_id": "fruit_berries",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_berries_lok": {
+    "group_id": "fruit_berries",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_berries_naboo": {
+    "group_id": "fruit_berries",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_berries_rori": {
+    "group_id": "fruit_berries",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_berries_taanab": {
+    "group_id": "fruit_berries",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_berries_talus": {
+    "group_id": "fruit_berries",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_berries_tatooine": {
+    "group_id": "fruit_berries",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_berries_yavin4": {
+    "group_id": "fruit_berries",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_flowers_chandrila": {
+    "group_id": "fruit_flowers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "fruit_flowers_corellia": {
+    "group_id": "fruit_flowers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "fruit_flowers_dantooine": {
+    "group_id": "fruit_flowers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "fruit_flowers_dathomir": {
+    "group_id": "fruit_flowers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "fruit_flowers_endor": {
+    "group_id": "fruit_flowers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "fruit_flowers_kuat": {
+    "group_id": "fruit_flowers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "fruit_flowers_lok": {
+    "group_id": "fruit_flowers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "fruit_flowers_naboo": {
+    "group_id": "fruit_flowers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "fruit_flowers_rori": {
+    "group_id": "fruit_flowers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "fruit_flowers_taanab": {
+    "group_id": "fruit_flowers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "fruit_flowers_talus": {
+    "group_id": "fruit_flowers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "fruit_flowers_tatooine": {
+    "group_id": "fruit_flowers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "fruit_flowers_yavin4": {
+    "group_id": "fruit_flowers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "fruit_fruits_chandrila": {
+    "group_id": "fruit_fruits",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_fruits_corellia": {
+    "group_id": "fruit_fruits",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_fruits_dantooine": {
+    "group_id": "fruit_fruits",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_fruits_dathomir": {
+    "group_id": "fruit_fruits",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_fruits_endor": {
+    "group_id": "fruit_fruits",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_fruits_kuat": {
+    "group_id": "fruit_fruits",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_fruits_lok": {
+    "group_id": "fruit_fruits",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_fruits_naboo": {
+    "group_id": "fruit_fruits",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_fruits_rori": {
+    "group_id": "fruit_fruits",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_fruits_taanab": {
+    "group_id": "fruit_fruits",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_fruits_talus": {
+    "group_id": "fruit_fruits",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_fruits_tatooine": {
+    "group_id": "fruit_fruits",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "fruit_fruits_yavin4": {
+    "group_id": "fruit_fruits",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "gas_inert_bilal": {
+    "group_id": "gas_inert",
+    "parent_id": "gas",
+    "dr": [105, 204],
+    "oq": [1, 1000]
+  },
+  "gas_inert_corthel": {
+    "group_id": "gas_inert",
+    "parent_id": "gas",
+    "dr": [167, 265],
+    "oq": [1, 1000]
+  },
+  "gas_inert_culsion": {
+    "group_id": "gas_inert",
+    "parent_id": "gas",
+    "dr": [228, 327],
+    "oq": [1, 1000]
+  },
+  "gas_inert_dioxis": {
+    "group_id": "gas_inert",
+    "parent_id": "gas",
+    "dr": [290, 388],
+    "oq": [1, 1000]
+  },
+  "gas_inert_hurlothrombic": {
+    "group_id": "gas_inert",
+    "parent_id": "gas",
+    "dr": [351, 450],
+    "oq": [1, 1000]
+  },
+  "gas_inert_hydron3": {
+    "group_id": "gas_inert",
+    "parent_id": "gas",
+    "dr": [1, 81],
+    "oq": [1, 1000]
+  },
+  "gas_inert_kaylon": {
+    "group_id": "gas_inert",
+    "parent_id": "gas",
+    "dr": [413, 511],
+    "oq": [1, 1000]
+  },
+  "gas_inert_korfaise": {
+    "group_id": "gas_inert",
+    "parent_id": "gas",
+    "dr": [474, 573],
+    "oq": [1, 1000]
+  },
+  "gas_inert_malium": {
+    "group_id": "gas_inert",
+    "parent_id": "gas",
+    "dr": [44, 142],
+    "oq": [1, 1000]
+  },
+  "gas_inert_methanagen": {
+    "group_id": "gas_inert",
+    "parent_id": "gas",
+    "dr": [536, 634],
+    "oq": [1, 1000]
+  },
+  "gas_inert_mirth": {
+    "group_id": "gas_inert",
+    "parent_id": "gas",
+    "dr": [597, 696],
+    "oq": [1, 1000]
+  },
+  "gas_inert_obah": {
+    "group_id": "gas_inert",
+    "parent_id": "gas",
+    "dr": [659, 757],
+    "oq": [1, 1000]
+  },
+  "gas_inert_rethin": {
+    "group_id": "gas_inert",
+    "parent_id": "gas",
+    "dr": [720, 800],
+    "oq": [1, 1000]
+  },
+  "gas_inert_unknown": {
+    "group_id": "gas_inert",
+    "parent_id": "gas",
+    "dr": [1, 1000],
+    "oq": [1, 1000]
+  },
+  "gas_reactive_eleton": {
+    "group_id": "gas_reactive",
+    "parent_id": "gas",
+    "dr": [1, 400],
+    "oq": [1, 1000]
+  },
+  "gas_reactive_irolunn": {
+    "group_id": "gas_reactive",
+    "parent_id": "gas",
+    "dr": [100, 600],
+    "oq": [1, 1000]
+  },
+  "gas_reactive_mandalore": {
+    "group_id": "gas_reactive",
+    "parent_id": "gas",
+    "dr": [500, 1000],
+    "oq": [300, 1000]
+  },
+  "gas_reactive_methane": {
+    "group_id": "gas_reactive",
+    "parent_id": "gas",
+    "dr": [200, 700],
+    "oq": [1, 1000]
+  },
+  "gas_reactive_organometallic": {
+    "group_id": "gas_reactive",
+    "parent_id": "gas",
+    "dr": [1, 1000],
+    "oq": [1, 1000]
+  },
+  "gas_reactive_orveth": {
+    "group_id": "gas_reactive",
+    "parent_id": "gas",
+    "dr": [300, 800],
+    "oq": [1, 1000]
+  },
+  "gas_reactive_sig": {
+    "group_id": "gas_reactive",
+    "parent_id": "gas",
+    "dr": [300, 900],
+    "oq": [1, 1000]
+  },
+  "gas_reactive_skevon": {
+    "group_id": "gas_reactive",
+    "parent_id": "gas",
+    "dr": [400, 900],
+    "oq": [1, 1000]
+  },
+  "gas_reactive_tolium": {
+    "group_id": "gas_reactive",
+    "parent_id": "gas",
+    "dr": [500, 1000],
+    "oq": [1, 1000]
+  },
+  "gas_reactive_unknown": {
+    "group_id": "gas_reactive",
+    "parent_id": "gas",
+    "dr": [1, 1000],
+    "oq": [1, 1000]
+  },
+  "gemstone_unknown": {
+    "group_id": "gemstone",
+    "parent_id": "gemstone",
+    "cr": [1, 1000],
+    "cd": [1, 1000],
+    "dr": [1, 1000],
+    "hr": [600, 1000],
+    "ma": [1, 600],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "iron_axidite": {
+    "group_id": "iron",
+    "parent_id": "metal_ferrous",
+    "cr": [171, 331],
+    "cd": [107, 207],
+    "dr": [559, 589],
+    "hr": [606, 706],
+    "ma": [128, 248],
+    "oq": [1, 1000],
+    "sr": [528, 648],
+    "ut": [528, 648]
+  },
+  "iron_bronzium": {
+    "group_id": "iron",
+    "parent_id": "metal_ferrous",
+    "cr": [271, 430],
+    "cd": [169, 269],
+    "dr": [536, 676],
+    "hr": [669, 769],
+    "ma": [203, 323],
+    "oq": [1, 1000],
+    "sr": [603, 723],
+    "ut": [603, 723]
+  },
+  "iron_colat": {
+    "group_id": "iron",
+    "parent_id": "metal_ferrous",
+    "cr": [371, 530],
+    "cd": [232, 332],
+    "dr": [624, 764],
+    "hr": [731, 831],
+    "ma": [278, 398],
+    "oq": [1, 1000],
+    "sr": [678, 798],
+    "ut": [678, 798]
+  },
+  "iron_dolovite": {
+    "group_id": "iron",
+    "parent_id": "metal_ferrous",
+    "cr": [470, 630],
+    "cd": [294, 394],
+    "dr": [711, 851],
+    "hr": [794, 894],
+    "ma": [353, 473],
+    "oq": [1, 1000],
+    "sr": [753, 873],
+    "ut": [753, 873]
+  },
+  "iron_doonium": {
+    "group_id": "iron",
+    "parent_id": "metal_ferrous",
+    "cr": [570, 730],
+    "cd": [357, 456],
+    "dr": [799, 939],
+    "hr": [856, 956],
+    "ma": [428, 548],
+    "oq": [1, 1000],
+    "sr": [828, 948],
+    "ut": [828, 948]
+  },
+  "iron_kammris": {
+    "group_id": "iron",
+    "parent_id": "metal_ferrous",
+    "cr": [670, 800],
+    "cd": [419, 500],
+    "dr": [886, 1000],
+    "hr": [919, 1000],
+    "ma": [503, 600],
+    "oq": [1, 1000],
+    "sr": [903, 1000],
+    "ut": [903, 1000]
+  },
+  "iron_mandalore": {
+    "group_id": "iron",
+    "parent_id": "metal_ferrous",
+    "cr": [600, 800],
+    "cd": [500, 700],
+    "dr": [700, 1000],
+    "hr": [650, 1000],
+    "ma": [450, 700],
+    "oq": [300, 1000],
+    "sr": [350, 600],
+    "ut": [600, 1000]
+  },
+  "iron_plumbum": {
+    "group_id": "iron",
+    "parent_id": "metal_ferrous",
+    "cr": [1, 131],
+    "cd": [1, 82],
+    "dr": [300, 414],
+    "hr": [500, 581],
+    "ma": [1, 98],
+    "oq": [1, 1000],
+    "sr": [400, 498],
+    "ut": [400, 498]
+  },
+  "iron_polonium": {
+    "group_id": "iron",
+    "parent_id": "metal_ferrous",
+    "cr": [71, 231],
+    "cd": [45, 144],
+    "dr": [361, 501],
+    "hr": [544, 644],
+    "ma": [53, 173],
+    "oq": [1, 1000],
+    "sr": [453, 573],
+    "ut": [453, 573]
+  },
+  "metal_ferrous_unknown": {
+    "group_id": "metal_ferrous",
+    "parent_id": "metal_ferrous",
+    "cr": [1, 800],
+    "cd": [1, 650],
+    "dr": [300, 1000],
+    "hr": [300, 1000],
+    "ma": [1, 600],
+    "oq": [1, 1000],
+    "sr": [400, 1000],
+    "ut": [400, 1000]
+  },
+  "metal_nonferrous_unknown": {
+    "group_id": "metal_nonferrous",
+    "parent_id": "metal_nonferrous",
+    "cr": [1, 800],
+    "cd": [300, 1000],
+    "dr": [1, 700],
+    "hr": [200, 800],
+    "ma": [300, 1000],
+    "oq": [1, 1000],
+    "sr": [300, 900],
+    "ut": [300, 1000]
+  },
+  "oats_domesticated_chandrila": {
+    "group_id": "oats_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "oats_domesticated_corellia": {
+    "group_id": "oats_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "oats_domesticated_dantooine": {
+    "group_id": "oats_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "oats_domesticated_dathomir": {
+    "group_id": "oats_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "oats_domesticated_endor": {
+    "group_id": "oats_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "oats_domesticated_kuat": {
+    "group_id": "oats_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "oats_domesticated_lok": {
+    "group_id": "oats_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "oats_domesticated_naboo": {
+    "group_id": "oats_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "oats_domesticated_rori": {
+    "group_id": "oats_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "oats_domesticated_taanab": {
+    "group_id": "oats_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "oats_domesticated_talus": {
+    "group_id": "oats_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "oats_domesticated_tatooine": {
+    "group_id": "oats_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "oats_domesticated_yavin4": {
+    "group_id": "oats_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "oats_wild_chandrila": {
+    "group_id": "oats_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "oats_wild_corellia": {
+    "group_id": "oats_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "oats_wild_dantooine": {
+    "group_id": "oats_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "oats_wild_dathomir": {
+    "group_id": "oats_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "oats_wild_endor": {
+    "group_id": "oats_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "oats_wild_kuat": {
+    "group_id": "oats_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "oats_wild_lok": {
+    "group_id": "oats_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "oats_wild_naboo": {
+    "group_id": "oats_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "oats_wild_rori": {
+    "group_id": "oats_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "oats_wild_taanab": {
+    "group_id": "oats_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "oats_wild_talus": {
+    "group_id": "oats_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "oats_wild_tatooine": {
+    "group_id": "oats_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "oats_wild_yavin4": {
+    "group_id": "oats_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "ore_carbonate_alantium": {
+    "group_id": "ore_carbonate",
+    "parent_id": "ore_sedimentary",
+    "cr": [300, 414],
+    "dr": [1, 115],
+    "hr": [400, 498],
+    "ma": [300, 414],
+    "oq": [1, 1000],
+    "sr": [1, 115],
+    "ut": [200, 330]
+  },
+  "ore_carbonate_barthierium": {
+    "group_id": "ore_carbonate",
+    "parent_id": "ore_sedimentary",
+    "cr": [361, 501],
+    "dr": [62, 202],
+    "hr": [453, 573],
+    "ma": [361, 501],
+    "oq": [1, 1000],
+    "sr": [62, 202],
+    "ut": [270, 430]
+  },
+  "ore_carbonate_chromite": {
+    "group_id": "ore_carbonate",
+    "parent_id": "ore_sedimentary",
+    "cr": [449, 589],
+    "dr": [150, 289],
+    "hr": [528, 648],
+    "ma": [449, 589],
+    "oq": [1, 1000],
+    "sr": [150, 289],
+    "ut": [370, 530]
+  },
+  "ore_carbonate_frasium": {
+    "group_id": "ore_carbonate",
+    "parent_id": "ore_sedimentary",
+    "cr": [536, 676],
+    "dr": [237, 377],
+    "hr": [603, 723],
+    "ma": [536, 676],
+    "oq": [1, 1000],
+    "sr": [237, 377],
+    "ut": [470, 630]
+  },
+  "ore_carbonate_lommite": {
+    "group_id": "ore_carbonate",
+    "parent_id": "ore_sedimentary",
+    "cr": [624, 764],
+    "dr": [324, 464],
+    "hr": [678, 798],
+    "ma": [624, 764],
+    "oq": [1, 1000],
+    "sr": [324, 464],
+    "ut": [570, 730]
+  },
+  "ore_carbonate_ostrine": {
+    "group_id": "ore_carbonate",
+    "parent_id": "ore_sedimentary",
+    "cr": [711, 851],
+    "dr": [412, 551],
+    "hr": [753, 873],
+    "ma": [711, 851],
+    "oq": [1, 1000],
+    "sr": [412, 551],
+    "ut": [670, 830]
+  },
+  "ore_carbonate_varium": {
+    "group_id": "ore_carbonate",
+    "parent_id": "ore_sedimentary",
+    "cr": [799, 939],
+    "dr": [499, 639],
+    "hr": [828, 948],
+    "ma": [799, 939],
+    "oq": [1, 1000],
+    "sr": [499, 639],
+    "ut": [770, 930]
+  },
+  "ore_carbonate_zinsiam": {
+    "group_id": "ore_carbonate",
+    "parent_id": "ore_sedimentary",
+    "cr": [886, 1000],
+    "dr": [586, 700],
+    "hr": [903, 1000],
+    "ma": [886, 1000],
+    "oq": [1, 1000],
+    "sr": [586, 700],
+    "ut": [870, 1000]
+  },
+  "ore_extrusive_bene": {
+    "group_id": "ore_extrusive",
+    "parent_id": "ore_igneous",
+    "cr": [200, 304],
+    "dr": [300, 391],
+    "hr": [400, 478],
+    "ma": [1, 79],
+    "oq": [1, 1000],
+    "sr": [400, 478],
+    "ut": [400, 478]
+  },
+  "ore_extrusive_chronamite": {
+    "group_id": "ore_extrusive",
+    "parent_id": "ore_igneous",
+    "cr": [256, 384],
+    "dr": [349, 461],
+    "hr": [442, 538],
+    "ma": [43, 139],
+    "oq": [1, 1000],
+    "sr": [442, 538],
+    "ut": [442, 538]
+  },
+  "ore_extrusive_ilimium": {
+    "group_id": "ore_extrusive",
+    "parent_id": "ore_igneous",
+    "cr": [336, 464],
+    "dr": [419, 531],
+    "hr": [502, 598],
+    "ma": [103, 199],
+    "oq": [1, 1000],
+    "sr": [502, 598],
+    "ut": [502, 598]
+  },
+  "ore_extrusive_kalonterium": {
+    "group_id": "ore_extrusive",
+    "parent_id": "ore_igneous",
+    "cr": [416, 544],
+    "dr": [489, 601],
+    "hr": [562, 658],
+    "ma": [163, 259],
+    "oq": [1, 1000],
+    "sr": [562, 658],
+    "ut": [562, 658]
+  },
+  "ore_extrusive_keschel": {
+    "group_id": "ore_extrusive",
+    "parent_id": "ore_igneous",
+    "cr": [496, 624],
+    "dr": [559, 671],
+    "hr": [622, 718],
+    "ma": [223, 318],
+    "oq": [1, 1000],
+    "sr": [622, 718],
+    "ut": [622, 718]
+  },
+  "ore_extrusive_lidium": {
+    "group_id": "ore_extrusive",
+    "parent_id": "ore_igneous",
+    "cr": [576, 704],
+    "dr": [629, 741],
+    "hr": [682, 778],
+    "ma": [283, 378],
+    "oq": [1, 1000],
+    "sr": [682, 778],
+    "ut": [682, 778]
+  },
+  "ore_extrusive_mandalore": {
+    "group_id": "ore_extrusive",
+    "parent_id": "ore_igneous",
+    "cr": [600, 1000],
+    "dr": [700, 1000],
+    "hr": [600, 1000],
+    "ma": [300, 700],
+    "oq": [300, 1000],
+    "sr": [300, 1000],
+    "ut": [600, 1000]
+  },
+  "ore_extrusive_maranium": {
+    "group_id": "ore_extrusive",
+    "parent_id": "ore_igneous",
+    "cr": [656, 784],
+    "dr": [699, 811],
+    "hr": [742, 838],
+    "ma": [342, 438],
+    "oq": [1, 1000],
+    "sr": [742, 838],
+    "ut": [742, 838]
+  },
+  "ore_extrusive_pholokite": {
+    "group_id": "ore_extrusive",
+    "parent_id": "ore_igneous",
+    "cr": [736, 864],
+    "dr": [769, 881],
+    "hr": [802, 898],
+    "ma": [402, 498],
+    "oq": [1, 1000],
+    "sr": [802, 898],
+    "ut": [802, 898]
+  },
+  "ore_extrusive_quadrenium": {
+    "group_id": "ore_extrusive",
+    "parent_id": "ore_igneous",
+    "cr": [816, 944],
+    "dr": [839, 951],
+    "hr": [862, 958],
+    "ma": [462, 558],
+    "oq": [1, 1000],
+    "sr": [862, 958],
+    "ut": [862, 958]
+  },
+  "ore_extrusive_vintrium": {
+    "group_id": "ore_extrusive",
+    "parent_id": "ore_igneous",
+    "cr": [896, 1000],
+    "dr": [909, 1000],
+    "hr": [922, 1000],
+    "ma": [522, 600],
+    "oq": [1, 1000],
+    "sr": [922, 1000],
+    "ut": [922, 1000]
+  },
+    "ore_igneous_unknown": {
+    "group_id": "ore_igneous",
+    "parent_id": "ore_igneous",
+    "cr": [200, 1000],
+    "dr": [300, 1000],
+    "hr": [400, 1000],
+    "ma": [1, 800],
+    "oq": [1, 1000],
+    "sr": [400, 1000],
+    "ut": [400, 1000]
+  },
+  "ore_intrusive_berubium": {
+    "group_id": "ore_intrusive",
+    "parent_id": "ore_igneous",
+    "cr": [200, 316],
+    "dr": [300, 401],
+    "hr": [700, 743],
+    "ma": [1, 88],
+    "oq": [1, 1000],
+    "sr": [500, 572],
+    "ut": [400, 487]
+  },
+  "ore_intrusive_chanlon": {
+    "group_id": "ore_intrusive",
+    "parent_id": "ore_igneous",
+    "cr": [262, 404],
+    "dr": [354, 479],
+    "hr": [723, 777],
+    "ma": [48, 154],
+    "oq": [1, 1000],
+    "sr": [539, 628],
+    "ut": [447, 553]
+  },
+  "ore_intrusive_corintium": {
+    "group_id": "ore_intrusive",
+    "parent_id": "ore_igneous",
+    "cr": [351, 493],
+    "dr": [432, 557],
+    "hr": [757, 810],
+    "ma": [114, 221],
+    "oq": [1, 1000],
+    "sr": [594, 683],
+    "ut": [513, 620]
+  },
+  "ore_intrusive_derillium": {
+    "group_id": "ore_intrusive",
+    "parent_id": "ore_igneous",
+    "cr": [440, 582],
+    "dr": [510, 634],
+    "hr": [790, 843],
+    "ma": [181, 287],
+    "oq": [1, 1000],
+    "sr": [650, 739],
+    "ut": [580, 687]
+  },
+  "ore_intrusive_dylinium": {
+    "group_id": "ore_intrusive",
+    "parent_id": "ore_igneous",
+    "cr": [618, 760],
+    "dr": [666, 790],
+    "hr": [857, 910],
+    "ma": [314, 420],
+    "oq": [1, 1000],
+    "sr": [761, 850],
+    "ut": [713, 820]
+  },
+  "ore_intrusive_hollinium": {
+    "group_id": "ore_intrusive",
+    "parent_id": "ore_igneous",
+    "cr": [707, 849],
+    "dr": [743, 868],
+    "hr": [890, 943],
+    "ma": [380, 487],
+    "oq": [1, 1000],
+    "sr": [817, 906],
+    "ut": [780, 887]
+  },
+  "ore_intrusive_ionite": {
+    "group_id": "ore_intrusive",
+    "parent_id": "ore_igneous",
+    "cr": [796, 938],
+    "dr": [821, 946],
+    "hr": [923, 977],
+    "ma": [447, 553],
+    "oq": [1, 1000],
+    "sr": [872, 961],
+    "ut": [847, 953]
+  },
+  "ore_intrusive_katrium": {
+    "group_id": "ore_intrusive",
+    "parent_id": "ore_igneous",
+    "cr": [884, 1000],
+    "dr": [899, 1000],
+    "hr": [957, 1000],
+    "ma": [513, 600],
+    "oq": [1, 1000],
+    "sr": [928, 1000],
+    "ut": [913, 1000]
+  },
+  "ore_intrusive_mandalore": {
+    "group_id": "ore_intrusive",
+    "parent_id": "ore_igneous",
+    "cr": [600, 1000],
+    "dr": [700, 1000],
+    "hr": [600, 1000],
+    "ma": [300, 700],
+    "oq": [300, 1000],
+    "sr": [300, 1000],
+    "ut": [600, 1000]
+  },
+  "ore_intrusive_oridium": {
+    "group_id": "ore_intrusive",
+    "parent_id": "ore_igneous",
+    "cr": [529, 671],
+    "dr": [588, 712],
+    "hr": [823, 877],
+    "ma": [247, 354],
+    "oq": [1, 1000],
+    "sr": [706, 794],
+    "ut": [647, 753]
+  },
+    "ore_sedimentary_unkown": {
+    "group_id": "ore_siliclastic",
+    "parent_id": "ore_sedimentary",
+    "cr": [300, 1000],
+    "dr": [1, 700],
+    "hr": [300, 1000],
+    "ma": [300, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 700],
+    "ut": [1, 1000]
+  },
+  "ore_siliclastic_ardanium": {
+    "group_id": "ore_siliclastic",
+    "parent_id": "ore_sedimentary",
+    "cr": [300, 452],
+    "dr": [1, 152],
+    "hr": [300, 452],
+    "ma": [300, 452],
+    "oq": [1, 1000],
+    "sr": [1, 131],
+    "ut": [1, 152]
+  },
+  "ore_siliclastic_cortosis": {
+    "group_id": "ore_siliclastic",
+    "parent_id": "ore_sedimentary",
+    "cr": [382, 568],
+    "dr": [83, 269],
+    "hr": [382, 568],
+    "ma": [382, 568],
+    "oq": [1, 1000],
+    "sr": [71, 231],
+    "ut": [83, 269]
+  },
+  "ore_siliclastic_crism": {
+    "group_id": "ore_siliclastic",
+    "parent_id": "ore_sedimentary",
+    "cr": [498, 685],
+    "dr": [199, 385],
+    "hr": [498, 685],
+    "ma": [498, 685],
+    "oq": [1, 1000],
+    "sr": [171, 330],
+    "ut": [199, 385]
+  },
+  "ore_siliclastic_fermionic": {
+    "group_id": "ore_siliclastic",
+    "parent_id": "ore_sedimentary",
+    "cr": [1, 1000],
+    "dr": [1, 1000],
+    "hr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "ore_siliclastic_malab": {
+    "group_id": "ore_siliclastic",
+    "parent_id": "ore_sedimentary",
+    "cr": [615, 802],
+    "dr": [316, 502],
+    "hr": [615, 802],
+    "ma": [615, 802],
+    "oq": [1, 1000],
+    "sr": [271, 430],
+    "ut": [316, 502]
+  },
+  "ore_siliclastic_robindun": {
+    "group_id": "ore_siliclastic",
+    "parent_id": "ore_sedimentary",
+    "cr": [732, 918],
+    "dr": [432, 618],
+    "hr": [732, 918],
+    "ma": [732, 918],
+    "oq": [1, 1000],
+    "sr": [370, 530],
+    "ut": [432, 618]
+  },
+  "ore_siliclastic_tertian": {
+    "group_id": "ore_siliclastic",
+    "parent_id": "ore_sedimentary",
+    "cr": [848, 1000],
+    "dr": [549, 700],
+    "hr": [848, 1000],
+    "ma": [848, 1000],
+    "oq": [1, 1000],
+    "sr": [470, 600],
+    "ut": [549, 700]
+  },
+  "petrochem_fuel_liquid_mandalore": {
+    "group_id": "fuel_petrochem_liquid",
+    "parent_id": "chemical",
+    "dr": [1, 600],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "petrochem_fuel_liquid_type1": {
+    "group_id": "fuel_petrochem_liquid",
+    "parent_id": "chemical",
+    "dr": [1, 600],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "petrochem_fuel_liquid_type2": {
+    "group_id": "fuel_petrochem_liquid",
+    "parent_id": "chemical",
+    "dr": [1, 600],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "petrochem_fuel_liquid_type3": {
+    "group_id": "fuel_petrochem_liquid",
+    "parent_id": "chemical",
+    "dr": [1, 600],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "petrochem_fuel_liquid_type4": {
+    "group_id": "fuel_petrochem_liquid",
+    "parent_id": "chemical",
+    "dr": [1, 600],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "petrochem_fuel_liquid_type5": {
+    "group_id": "fuel_petrochem_liquid",
+    "parent_id": "chemical",
+    "dr": [1, 600],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "petrochem_fuel_liquid_type6": {
+    "group_id": "fuel_petrochem_liquid",
+    "parent_id": "chemical",
+    "dr": [1, 600],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "petrochem_fuel_liquid_type7": {
+    "group_id": "fuel_petrochem_liquid",
+    "parent_id": "chemical",
+    "dr": [1, 600],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "petrochem_fuel_liquid_unknown": {
+    "group_id": "fuel_petrochem_liquid",
+    "parent_id": "chemical",
+    "dr": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "petrochem_fuel_solid_mandalore": {
+    "group_id": "fuel_petrochem_solid",
+    "parent_id": "fuel_petrochem_solid",
+    "dr": [600, 900],
+    "oq": [1, 1000],
+    "pe": [850, 1000]
+  },
+  "petrochem_fuel_solid_type1": {
+    "group_id": "fuel_petrochem_solid",
+    "parent_id": "fuel_petrochem_solid",
+    "dr": [1, 149],
+    "oq": [1, 1000],
+    "pe": [300, 430]
+  },
+  "petrochem_fuel_solid_type2": {
+    "group_id": "fuel_petrochem_solid",
+    "parent_id": "fuel_petrochem_solid",
+    "dr": [81, 264],
+    "oq": [1, 1000],
+    "pe": [370, 530]
+  },
+  "petrochem_fuel_solid_type3": {
+    "group_id": "fuel_petrochem_solid",
+    "parent_id": "fuel_petrochem_solid",
+    "dr": [195, 378],
+    "oq": [1, 1000],
+    "pe": [470, 630]
+  },
+  "petrochem_fuel_solid_type4": {
+    "group_id": "fuel_petrochem_solid",
+    "parent_id": "fuel_petrochem_solid",
+    "dr": [309, 492],
+    "oq": [1, 1000],
+    "pe": [570, 730]
+  },
+  "petrochem_fuel_solid_type5": {
+    "group_id": "fuel_petrochem_solid",
+    "parent_id": "fuel_petrochem_solid",
+    "dr": [423, 606],
+    "oq": [1, 1000],
+    "pe": [670, 830]
+  },
+  "petrochem_fuel_solid_type6": {
+    "group_id": "fuel_petrochem_solid",
+    "parent_id": "fuel_petrochem_solid",
+    "dr": [537, 720],
+    "oq": [1, 1000],
+    "pe": [770, 930]
+  },
+  "petrochem_fuel_solid_type7": {
+    "group_id": "fuel_petrochem_solid",
+    "parent_id": "fuel_petrochem_solid",
+    "dr": [652, 800],
+    "oq": [1, 1000],
+    "pe": [870, 1000]
+  },
+  "petrochem_fuel_solid_unknown": {
+    "group_id": "fuel_petrochem_solid",
+    "parent_id": "fuel_petrochem_solid",
+    "dr": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "petrochem_inert_lubricating_oil": {
+    "group_id": "petrochem_inert",
+    "parent_id": "chemical",
+    "dr": [1, 1000],
+    "oq": [1, 1000]
+  },
+  "petrochem_inert_polymer": {
+    "group_id": "petrochem_inert",
+    "parent_id": "chemical",
+    "dr": [1, 1000],
+    "oq": [1, 1000]
+  },
+  "radioactive_mandalore": {
+    "group_id": "radioactive",
+    "parent_id": "radioactive",
+    "dr": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "radioactive_polymetric": {
+    "group_id": "radioactive",
+    "parent_id": "radioactive",
+    "dr": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "radioactive_type1": {
+    "group_id": "radioactive",
+    "parent_id": "radioactive",
+    "dr": [400, 474],
+    "oq": [1, 1000],
+    "pe": [500, 593]
+  },
+  "radioactive_type2": {
+    "group_id": "radioactive",
+    "parent_id": "radioactive",
+    "dr": [440, 531],
+    "oq": [1, 1000],
+    "pe": [550, 664]
+  },
+  "radioactive_type3": {
+    "group_id": "radioactive",
+    "parent_id": "radioactive",
+    "dr": [497, 589],
+    "oq": [1, 1000],
+    "pe": [621, 736]
+  },
+  "radioactive_type4": {
+    "group_id": "radioactive",
+    "parent_id": "radioactive",
+    "dr": [554, 646],
+    "oq": [1, 1000],
+    "pe": [693, 807]
+  },
+  "radioactive_type5": {
+    "group_id": "radioactive",
+    "parent_id": "radioactive",
+    "dr": [611, 703],
+    "oq": [1, 1000],
+    "pe": [764, 879]
+  },
+  "radioactive_type6": {
+    "group_id": "radioactive",
+    "parent_id": "radioactive",
+    "dr": [669, 760],
+    "oq": [1, 1000],
+    "pe": [836, 950]
+  },
+  "radioactive_type7": {
+    "group_id": "radioactive",
+    "parent_id": "radioactive",
+    "dr": [726, 800],
+    "oq": [1, 1000],
+    "pe": [907, 1000]
+  },
+  "radioactive_unknown": {
+    "group_id": "radioactive",
+    "parent_id": "radioactive",
+    "dr": [1, 800],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "rice_domesticated_chandrila": {
+    "group_id": "rice_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "rice_domesticated_corellia": {
+    "group_id": "rice_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "rice_domesticated_dantooine": {
+    "group_id": "rice_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "rice_domesticated_dathomir": {
+    "group_id": "rice_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "rice_domesticated_endor": {
+    "group_id": "rice_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "rice_domesticated_kuat": {
+    "group_id": "rice_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "rice_domesticated_lok": {
+    "group_id": "rice_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "rice_domesticated_naboo": {
+    "group_id": "rice_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "rice_domesticated_rori": {
+    "group_id": "rice_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "rice_domesticated_taanab": {
+    "group_id": "rice_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "rice_domesticated_talus": {
+    "group_id": "rice_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "rice_domesticated_tatooine": {
+    "group_id": "rice_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "rice_domesticated_yavin4": {
+    "group_id": "rice_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "rice_wild_chandrila": {
+    "group_id": "rice_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "rice_wild_corellia": {
+    "group_id": "rice_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "rice_wild_dantooine": {
+    "group_id": "rice_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "rice_wild_dathomir": {
+    "group_id": "rice_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "rice_wild_endor": {
+    "group_id": "rice_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "rice_wild_kuat": {
+    "group_id": "rice_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "rice_wild_lok": {
+    "group_id": "rice_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "rice_wild_naboo": {
+    "group_id": "rice_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "rice_wild_rori": {
+    "group_id": "rice_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "rice_wild_taanab": {
+    "group_id": "rice_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "rice_wild_talus": {
+    "group_id": "rice_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "rice_wild_tatooine": {
+    "group_id": "rice_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "rice_wild_yavin4": {
+    "group_id": "rice_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "softwood_conifer_chandrila": {
+    "group_id": "softwood",
+    "parent_id": "wood",
+    "dr": [1, 600],
+    "ma": [600, 1000],
+    "oq": [1, 1000],
+    "sr": [100, 400],
+    "ut": [1, 300]
+  },
+  "softwood_conifer_corellia": {
+    "group_id": "softwood",
+    "parent_id": "wood",
+    "dr": [1, 600],
+    "ma": [600, 1000],
+    "oq": [1, 1000],
+    "sr": [100, 400],
+    "ut": [1, 300]
+  },
+  "softwood_conifer_dantooine": {
+    "group_id": "softwood",
+    "parent_id": "wood",
+    "dr": [1, 600],
+    "ma": [600, 1000],
+    "oq": [1, 1000],
+    "sr": [100, 400],
+    "ut": [1, 300]
+  },
+  "softwood_conifer_dathomir": {
+    "group_id": "softwood",
+    "parent_id": "wood",
+    "dr": [1, 600],
+    "ma": [600, 1000],
+    "oq": [1, 1000],
+    "sr": [100, 400],
+    "ut": [1, 300]
+  },
+  "softwood_conifer_endor": {
+    "group_id": "softwood",
+    "parent_id": "wood",
+    "dr": [1, 600],
+    "ma": [600, 1000],
+    "oq": [1, 1000],
+    "sr": [100, 400],
+    "ut": [1, 300]
+  },
+  "softwood_conifer_kuat": {
+    "group_id": "softwood",
+    "parent_id": "wood",
+    "dr": [1, 600],
+    "ma": [600, 1000],
+    "oq": [1, 1000],
+    "sr": [100, 400],
+    "ut": [1, 300]
+  },
+  "softwood_conifer_lok": {
+    "group_id": "softwood",
+    "parent_id": "wood",
+    "dr": [1, 600],
+    "ma": [600, 1000],
+    "oq": [1, 1000],
+    "sr": [100, 400],
+    "ut": [1, 300]
+  },
+  "softwood_conifer_naboo": {
+    "group_id": "softwood",
+    "parent_id": "wood",
+    "dr": [1, 600],
+    "ma": [600, 1000],
+    "oq": [1, 1000],
+    "sr": [100, 400],
+    "ut": [1, 300]
+  },
+  "softwood_conifer_rori": {
+    "group_id": "softwood",
+    "parent_id": "wood",
+    "dr": [1, 600],
+    "ma": [600, 1000],
+    "oq": [1, 1000],
+    "sr": [100, 400],
+    "ut": [1, 300]
+  },
+  "softwood_conifer_taanab": {
+    "group_id": "softwood",
+    "parent_id": "wood",
+    "dr": [1, 600],
+    "ma": [600, 1000],
+    "oq": [1, 1000],
+    "sr": [100, 400],
+    "ut": [1, 300]
+  },
+  "softwood_conifer_talus": {
+    "group_id": "softwood",
+    "parent_id": "wood",
+    "dr": [1, 600],
+    "ma": [600, 1000],
+    "oq": [1, 1000],
+    "sr": [100, 400],
+    "ut": [1, 300]
+  },
+  "softwood_conifer_tatooine": {
+    "group_id": "softwood",
+    "parent_id": "wood",
+    "dr": [1, 600],
+    "ma": [600, 1000],
+    "oq": [1, 1000],
+    "sr": [100, 400],
+    "ut": [1, 300]
+  },
+  "softwood_conifer_yavin4": {
+    "group_id": "softwood",
+    "parent_id": "wood",
+    "dr": [1, 600],
+    "ma": [600, 1000],
+    "oq": [1, 1000],
+    "sr": [100, 400],
+    "ut": [1, 300]
+  },
+  "softwood_evergreen_chandrila": {
+    "group_id": "softwood_evergreen",
+    "parent_id": "wood",
+    "dr": [1, 500],
+    "ma": [800, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 400],
+    "ut": [1, 300]
+  },
+  "softwood_evergreen_corellia": {
+    "group_id": "softwood_evergreen",
+    "parent_id": "wood",
+    "dr": [1, 500],
+    "ma": [800, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 400],
+    "ut": [1, 300]
+  },
+  "softwood_evergreen_dantooine": {
+    "group_id": "softwood_evergreen",
+    "parent_id": "wood",
+    "dr": [1, 500],
+    "ma": [800, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 400],
+    "ut": [1, 300]
+  },
+  "softwood_evergreen_dathomir": {
+    "group_id": "softwood_evergreen",
+    "parent_id": "wood",
+    "dr": [1, 500],
+    "ma": [800, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 400],
+    "ut": [1, 300]
+  },
+  "softwood_evergreen_endor": {
+    "group_id": "softwood_evergreen",
+    "parent_id": "wood",
+    "dr": [1, 500],
+    "ma": [800, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 400],
+    "ut": [1, 300]
+  },
+  "softwood_evergreen_kuat": {
+    "group_id": "softwood_evergreen",
+    "parent_id": "wood",
+    "dr": [1, 500],
+    "ma": [800, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 400],
+    "ut": [1, 300]
+  },
+  "softwood_evergreen_lok": {
+    "group_id": "softwood_evergreen",
+    "parent_id": "wood",
+    "dr": [1, 500],
+    "ma": [800, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 400],
+    "ut": [1, 300]
+  },
+  "softwood_evergreen_naboo": {
+    "group_id": "softwood_evergreen",
+    "parent_id": "wood",
+    "dr": [1, 500],
+    "ma": [800, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 400],
+    "ut": [1, 300]
+  },
+  "softwood_evergreen_rori": {
+    "group_id": "softwood_evergreen",
+    "parent_id": "wood",
+    "dr": [1, 500],
+    "ma": [800, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 400],
+    "ut": [1, 300]
+  },
+  "softwood_evergreen_talus": {
+    "group_id": "softwood_evergreen",
+    "parent_id": "wood",
+    "dr": [1, 500],
+    "ma": [800, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 400],
+    "ut": [1, 300]
+  },
+  "softwood_evergreen_tatooine": {
+    "group_id": "softwood_evergreen",
+    "parent_id": "wood",
+    "dr": [1, 500],
+    "ma": [800, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 400],
+    "ut": [1, 300]
+  },
+  "softwood_evergreen_yavin4": {
+    "group_id": "softwood_evergreen",
+    "parent_id": "wood",
+    "dr": [1, 500],
+    "ma": [800, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 400],
+    "ut": [1, 300]
+  },
+  "steel_arveshian": {
+    "group_id": "steel",
+    "parent_id": "metal_ferrous",
+    "cr": [1, 1000],
+    "cd": [1, 1000],
+    "dr": [1, 1000],
+    "hr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "steel_bicorbantium": {
+    "group_id": "steel",
+    "parent_id": "metal_ferrous",
+    "cr": [1, 1000],
+    "cd": [1, 1000],
+    "dr": [1, 1000],
+    "hr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "steel_carbonite": {
+    "group_id": "steel",
+    "parent_id": "metal_ferrous",
+    "cr": [616, 744],
+    "cd": [501, 605],
+    "dr": [885, 965],
+    "hr": [908, 972],
+    "ma": [308, 372],
+    "oq": [1, 1000],
+    "sr": [885, 965],
+    "ut": [862, 958]
+  },
+  "steel_cubirian": {
+    "group_id": "steel",
+    "parent_id": "metal_ferrous",
+    "cr": [137, 265],
+    "cd": [111, 215],
+    "dr": [585, 665],
+    "hr": [668, 732],
+    "ma": [69, 133],
+    "oq": [1, 1000],
+    "sr": [585, 665],
+    "ut": [502, 598]
+  },
+  "steel_ditanium": {
+    "group_id": "steel",
+    "parent_id": "metal_ferrous",
+    "cr": [456, 584],
+    "cd": [371, 475],
+    "dr": [785, 865],
+    "hr": [828, 892],
+    "ma": [228, 292],
+    "oq": [1, 1000],
+    "sr": [785, 865],
+    "ut": [742, 838]
+  },
+  "steel_duralloy": {
+    "group_id": "steel",
+    "parent_id": "metal_ferrous",
+    "cr": [696, 800],
+    "cd": [566, 650],
+    "dr": [935, 1000],
+    "hr": [948, 1000],
+    "ma": [348, 400],
+    "oq": [1, 1000],
+    "sr": [935, 1000],
+    "ut": [922, 1000]
+  },
+  "steel_duranium": {
+    "group_id": "steel",
+    "parent_id": "metal_ferrous",
+    "cr": [377, 504],
+    "cd": [306, 410],
+    "dr": [735, 815],
+    "hr": [788, 852],
+    "ma": [189, 252],
+    "oq": [1, 1000],
+    "sr": [735, 815],
+    "ut": [682, 778]
+  },
+  "steel_kiirium": {
+    "group_id": "steel",
+    "parent_id": "metal_ferrous",
+    "cr": [57, 185],
+    "cd": [46, 150],
+    "dr": [535, 615],
+    "hr": [628, 692],
+    "ma": [29, 93],
+    "oq": [1, 1000],
+    "sr": [535, 615],
+    "ut": [442, 538]
+  },
+  "steel_mandalore": {
+    "group_id": "steel",
+    "parent_id": "metal_ferrous",
+    "cr": [600, 800],
+    "cd": [500, 700],
+    "dr": [700, 1000],
+    "hr": [650, 1000],
+    "ma": [250, 450],
+    "oq": [300, 1000],
+    "sr": [700, 1000],
+    "ut": [600, 1000]
+  },
+  "steel_neutronium": {
+    "group_id": "steel",
+    "parent_id": "metal_ferrous",
+    "cr": [297, 424],
+    "cd": [241, 345],
+    "dr": [685, 765],
+    "hr": [748, 812],
+    "ma": [149, 212],
+    "oq": [1, 1000],
+    "sr": [685, 765],
+    "ut": [622, 718]
+  },
+  "steel_quadranium": {
+    "group_id": "steel",
+    "parent_id": "metal_ferrous",
+    "cr": [536, 664],
+    "cd": [436, 540],
+    "dr": [835, 915],
+    "hr": [868, 932],
+    "ma": [268, 332],
+    "oq": [1, 1000],
+    "sr": [835, 915],
+    "ut": [802, 898]
+  },
+  "steel_rhodium": {
+    "group_id": "steel",
+    "parent_id": "metal_ferrous",
+    "cr": [1, 105],
+    "cd": [1, 85],
+    "dr": [500, 565],
+    "hr": [600, 652],
+    "ma": [1, 53],
+    "oq": [1, 1000],
+    "sr": [500, 565],
+    "ut": [400, 478]
+  },
+  "steel_thoranium": {
+    "group_id": "steel",
+    "parent_id": "metal_ferrous",
+    "cr": [217, 345],
+    "cd": [176, 280],
+    "dr": [635, 715],
+    "hr": [708, 772],
+    "ma": [109, 173],
+    "oq": [1, 1000],
+    "sr": [635, 715],
+    "ut": [562, 658]
+  },
+  "vegetable_beans_chandrila": {
+    "group_id": "vegetable_beans",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_beans_corellia": {
+    "group_id": "vegetable_beans",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_beans_dantooine": {
+    "group_id": "vegetable_beans",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_beans_dathomir": {
+    "group_id": "vegetable_beans",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_beans_endor": {
+    "group_id": "vegetable_beans",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_beans_kuat": {
+    "group_id": "vegetable_beans",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_beans_lok": {
+    "group_id": "vegetable_beans",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_beans_naboo": {
+    "group_id": "vegetable_beans",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_beans_rori": {
+    "group_id": "vegetable_beans",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_beans_taanab": {
+    "group_id": "vegetable_beans",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_beans_talus": {
+    "group_id": "vegetable_beans",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_beans_tatooine": {
+    "group_id": "vegetable_beans",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_beans_yavin4": {
+    "group_id": "vegetable_beans",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_fungi_chandrila": {
+    "group_id": "vegetable_fungi",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_fungi_corellia": {
+    "group_id": "vegetable_fungi",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_fungi_dantooine": {
+    "group_id": "vegetable_fungi",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_fungi_dathomir": {
+    "group_id": "vegetable_fungi",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_fungi_endor": {
+    "group_id": "vegetable_fungi",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_fungi_kuat": {
+    "group_id": "vegetable_fungi",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_fungi_lok": {
+    "group_id": "vegetable_fungi",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_fungi_naboo": {
+    "group_id": "vegetable_fungi",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_fungi_rori": {
+    "group_id": "vegetable_fungi",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_fungi_taanab": {
+    "group_id": "vegetable_fungi",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_fungi_talus": {
+    "group_id": "vegetable_fungi",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_fungi_tatooine": {
+    "group_id": "vegetable_fungi",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_fungi_yavin4": {
+    "group_id": "vegetable_fungi",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_greens_chandrila": {
+    "group_id": "vegetable_greens",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_greens_corellia": {
+    "group_id": "vegetable_greens",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_greens_dantooine": {
+    "group_id": "vegetable_greens",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_greens_dathomir": {
+    "group_id": "vegetable_greens",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_greens_endor": {
+    "group_id": "vegetable_greens",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_greens_kuat": {
+    "group_id": "vegetable_greens",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_greens_lok": {
+    "group_id": "vegetable_greens",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_greens_naboo": {
+    "group_id": "vegetable_greens",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_greens_rori": {
+    "group_id": "vegetable_greens",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_greens_taanab": {
+    "group_id": "vegetable_greens",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_greens_talus": {
+    "group_id": "vegetable_greens",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_greens_tatooine": {
+    "group_id": "vegetable_greens",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_greens_yavin4": {
+    "group_id": "vegetable_greens",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_tubers_chandrila": {
+    "group_id": "vegetable_tubers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_tubers_corellia": {
+    "group_id": "vegetable_tubers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_tubers_dantooine": {
+    "group_id": "vegetable_tubers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_tubers_dathomir": {
+    "group_id": "vegetable_tubers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_tubers_endor": {
+    "group_id": "vegetable_tubers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_tubers_kuat": {
+    "group_id": "vegetable_tubers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_tubers_lok": {
+    "group_id": "vegetable_tubers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_tubers_naboo": {
+    "group_id": "vegetable_tubers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_tubers_rori": {
+    "group_id": "vegetable_tubers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_tubers_taanab": {
+    "group_id": "vegetable_tubers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_tubers_talus": {
+    "group_id": "vegetable_tubers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_tubers_tatooine": {
+    "group_id": "vegetable_tubers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "vegetable_tubers_yavin4": {
+    "group_id": "vegetable_tubers",
+    "parent_id": "seeds",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "water_vapor_chandrila": {
+    "group_id": "water",
+    "parent_id": "water",
+    "dr": [1, 1000],
+    "oq": [600, 1000]
+  },
+  "water_vapor_corellia": {
+    "group_id": "water",
+    "parent_id": "water",
+    "dr": [1, 1000],
+    "oq": [600, 1000]
+  },
+  "water_vapor_dantooine": {
+    "group_id": "water",
+    "parent_id": "water",
+    "dr": [1, 1000],
+    "oq": [600, 1000]
+  },
+  "water_vapor_dathomir": {
+    "group_id": "water",
+    "parent_id": "water",
+    "dr": [1, 1000],
+    "oq": [600, 1000]
+  },
+  "water_vapor_endor": {
+    "group_id": "water",
+    "parent_id": "water",
+    "dr": [1, 1000],
+    "oq": [600, 1000]
+  },
+  "water_vapor_kuat": {
+    "group_id": "water",
+    "parent_id": "water",
+    "dr": [1, 1000],
+    "oq": [600, 1000]
+  },
+  "water_vapor_lok": {
+    "group_id": "water",
+    "parent_id": "water",
+    "dr": [1, 1000],
+    "oq": [600, 1000]
+  },
+  "water_vapor_naboo": {
+    "group_id": "water",
+    "parent_id": "water",
+    "dr": [1, 1000],
+    "oq": [600, 1000]
+  },
+  "water_vapor_rori": {
+    "group_id": "water",
+    "parent_id": "water",
+    "dr": [1, 1000],
+    "oq": [600, 1000]
+  },
+  "water_vapor_taanab": {
+    "group_id": "water",
+    "parent_id": "water",
+    "dr": [1, 1000],
+    "oq": [600, 1000]
+  },
+  "water_vapor_talus": {
+    "group_id": "water",
+    "parent_id": "water",
+    "dr": [1, 1000],
+    "oq": [600, 1000]
+  },
+  "water_vapor_tatooine": {
+    "group_id": "water",
+    "parent_id": "water",
+    "dr": [1, 1000],
+    "oq": [600, 1000]
+  },
+  "water_vapor_yavin4": {
+    "group_id": "water",
+    "parent_id": "water",
+    "dr": [1, 1000],
+    "oq": [600, 1000]
+  },
+  "wheat_domesticated_chandrila": {
+    "group_id": "wheat_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "wheat_domesticated_corellia": {
+    "group_id": "wheat_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "wheat_domesticated_dantooine": {
+    "group_id": "wheat_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "wheat_domesticated_dathomir": {
+    "group_id": "wheat_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "wheat_domesticated_endor": {
+    "group_id": "wheat_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "wheat_domesticated_kuat": {
+    "group_id": "wheat_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "wheat_domesticated_lok": {
+    "group_id": "wheat_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "wheat_domesticated_naboo": {
+    "group_id": "wheat_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "wheat_domesticated_rori": {
+    "group_id": "wheat_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "wheat_domesticated_taanab": {
+    "group_id": "wheat_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "wheat_domesticated_talus": {
+    "group_id": "wheat_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "wheat_domesticated_tatooine": {
+    "group_id": "wheat_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "wheat_domesticated_yavin4": {
+    "group_id": "wheat_domesticated",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "wheat_wild_chandrila": {
+    "group_id": "wheat_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "wheat_wild_corellia": {
+    "group_id": "wheat_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "wheat_wild_dantooine": {
+    "group_id": "wheat_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "wheat_wild_dathomir": {
+    "group_id": "wheat_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "wheat_wild_endor": {
+    "group_id": "wheat_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "wheat_wild_kuat": {
+    "group_id": "wheat_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "wheat_wild_lok": {
+    "group_id": "wheat_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "wheat_wild_naboo": {
+    "group_id": "wheat_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "wheat_wild_rori": {
+    "group_id": "wheat_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "wheat_wild_taanab": {
+    "group_id": "wheat_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "wheat_wild_talus": {
+    "group_id": "wheat_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "wheat_wild_tatooine": {
+    "group_id": "wheat_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "wheat_wild_yavin4": {
+    "group_id": "wheat_wild",
+    "parent_id": "cereal",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "wood_deciduous_chandrila": {
+    "group_id": "wood_deciduous",
+    "parent_id": "wood",
+    "dr": [1, 800],
+    "ma": [400, 800],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 800]
+  },
+  "wood_deciduous_corellia": {
+    "group_id": "wood_deciduous",
+    "parent_id": "wood",
+    "dr": [1, 800],
+    "ma": [400, 800],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 800]
+  },
+  "wood_deciduous_dantooine": {
+    "group_id": "wood_deciduous",
+    "parent_id": "wood",
+    "dr": [1, 800],
+    "ma": [400, 800],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 800]
+  },
+  "wood_deciduous_dathomir": {
+    "group_id": "wood_deciduous",
+    "parent_id": "wood",
+    "dr": [1, 800],
+    "ma": [400, 800],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 800]
+  },
+  "wood_deciduous_endor": {
+    "group_id": "wood_deciduous",
+    "parent_id": "wood",
+    "dr": [1, 800],
+    "ma": [400, 800],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 800]
+  },
+  "wood_deciduous_kuat": {
+    "group_id": "wood_deciduous",
+    "parent_id": "wood",
+    "dr": [1, 800],
+    "ma": [400, 800],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 800]
+  },
+  "wood_deciduous_lok": {
+    "group_id": "wood_deciduous",
+    "parent_id": "wood",
+    "dr": [1, 800],
+    "ma": [400, 800],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 800]
+  },
+  "wood_deciduous_naboo": {
+    "group_id": "wood_deciduous",
+    "parent_id": "wood",
+    "dr": [1, 800],
+    "ma": [400, 800],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 800]
+  },
+  "wood_deciduous_rori": {
+    "group_id": "wood_deciduous",
+    "parent_id": "wood",
+    "dr": [1, 800],
+    "ma": [400, 800],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 800]
+  },
+  "wood_deciduous_taanab": {
+    "group_id": "wood_deciduous",
+    "parent_id": "wood",
+    "dr": [1, 800],
+    "ma": [400, 800],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 800]
+  },
+  "wood_deciduous_talus": {
+    "group_id": "wood_deciduous",
+    "parent_id": "wood",
+    "dr": [1, 800],
+    "ma": [400, 800],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 800]
+  },
+  "wood_deciduous_tatooine": {
+    "group_id": "wood_deciduous",
+    "parent_id": "wood",
+    "dr": [1, 800],
+    "ma": [400, 800],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 800]
+  },
+  "wood_deciduous_yavin4": {
+    "group_id": "wood_deciduous",
+    "parent_id": "wood",
+    "dr": [1, 800],
+    "ma": [400, 800],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 800]
+  },
+  "bone_avian_chandrila": {
+    "group_id": "bone_avian",
+    "parent_id": "bone",
+    "dr": [1, 700],
+    "ma": [1, 600],
+    "oq": [1, 1000],
+    "sr": [100, 500],
+    "ut": [1, 500]
+  },
+  "bone_avian_corellia": {
+    "group_id": "bone_avian",
+    "parent_id": "bone",
+    "dr": [1, 700],
+    "ma": [1, 600],
+    "oq": [1, 1000],
+    "sr": [100, 500],
+    "ut": [1, 500]
+  },
+  "bone_avian_dantooine": {
+    "group_id": "bone_avian",
+    "parent_id": "bone",
+    "dr": [1, 700],
+    "ma": [1, 600],
+    "oq": [1, 1000],
+    "sr": [100, 500],
+    "ut": [1, 500]
+  },
+  "bone_avian_dathomir": {
+    "group_id": "bone_avian",
+    "parent_id": "bone",
+    "dr": [1, 700],
+    "ma": [1, 600],
+    "oq": [1, 1000],
+    "sr": [100, 500],
+    "ut": [1, 500]
+  },
+  "bone_avian_endor": {
+    "group_id": "bone_avian",
+    "parent_id": "bone",
+    "dr": [1, 700],
+    "ma": [1, 600],
+    "oq": [1, 1000],
+    "sr": [100, 500],
+    "ut": [1, 500]
+  },
+  "bone_avian_kuat": {
+    "group_id": "bone_avian",
+    "parent_id": "bone",
+    "dr": [1, 700],
+    "ma": [1, 600],
+    "oq": [1, 1000],
+    "sr": [100, 500],
+    "ut": [1, 500]
+  },
+  "bone_avian_lok": {
+    "group_id": "bone_avian",
+    "parent_id": "bone",
+    "dr": [1, 700],
+    "ma": [1, 600],
+    "oq": [1, 1000],
+    "sr": [100, 500],
+    "ut": [1, 500]
+  },
+  "bone_avian_naboo": {
+    "group_id": "bone_avian",
+    "parent_id": "bone",
+    "dr": [1, 700],
+    "ma": [1, 600],
+    "oq": [1, 1000],
+    "sr": [100, 500],
+    "ut": [1, 500]
+  },
+  "bone_avian_rori": {
+    "group_id": "bone_avian",
+    "parent_id": "bone",
+    "dr": [1, 700],
+    "ma": [1, 600],
+    "oq": [1, 1000],
+    "sr": [100, 500],
+    "ut": [1, 500]
+  },
+  "bone_avian_taanab": {
+    "group_id": "bone_avian",
+    "parent_id": "bone",
+    "dr": [1, 700],
+    "ma": [1, 600],
+    "oq": [1, 1000],
+    "sr": [100, 500],
+    "ut": [1, 500]
+  },
+  "bone_avian_talus": {
+    "group_id": "bone_avian",
+    "parent_id": "bone",
+    "dr": [1, 700],
+    "ma": [1, 600],
+    "oq": [1, 1000],
+    "sr": [100, 500],
+    "ut": [1, 500]
+  },
+  "bone_avian_tatooine": {
+    "group_id": "bone_avian",
+    "parent_id": "bone",
+    "dr": [1, 700],
+    "ma": [1, 600],
+    "oq": [1, 1000],
+    "sr": [100, 500],
+    "ut": [1, 500]
+  },
+  "bone_avian_yavin4": {
+    "group_id": "bone_avian",
+    "parent_id": "bone",
+    "dr": [1, 700],
+    "ma": [1, 600],
+    "oq": [1, 1000],
+    "sr": [100, 500],
+    "ut": [1, 500]
+  },
+  "bone_horn_chandrila": {
+    "group_id": "bone_horn",
+    "parent_id": "bone_horn",
+    "dr": [200, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 500]
+  },
+  "bone_horn_corellia": {
+    "group_id": "bone_horn",
+    "parent_id": "bone_horn",
+    "dr": [200, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 500]
+  },
+  "bone_horn_dantooine": {
+    "group_id": "bone_horn",
+    "parent_id": "bone_horn",
+    "dr": [200, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 500]
+  },
+  "bone_horn_dathomir": {
+    "group_id": "bone_horn",
+    "parent_id": "bone_horn",
+    "dr": [200, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 500]
+  },
+  "bone_horn_endor": {
+    "group_id": "bone_horn",
+    "parent_id": "bone_horn",
+    "dr": [200, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 500]
+  },
+  "bone_horn_kuat": {
+    "group_id": "bone_horn",
+    "parent_id": "bone_horn",
+    "dr": [200, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 500]
+  },
+  "bone_horn_lok": {
+    "group_id": "bone_horn",
+    "parent_id": "bone_horn",
+    "dr": [200, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 500]
+  },
+  "bone_horn_naboo": {
+    "group_id": "bone_horn",
+    "parent_id": "bone_horn",
+    "dr": [200, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 500]
+  },
+  "bone_horn_rori": {
+    "group_id": "bone_horn",
+    "parent_id": "bone_horn",
+    "dr": [200, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 500]
+  },
+  "bone_horn_taanab": {
+    "group_id": "bone_horn",
+    "parent_id": "bone_horn",
+    "dr": [200, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 500]
+  },
+  "bone_horn_talus": {
+    "group_id": "bone_horn",
+    "parent_id": "bone_horn",
+    "dr": [200, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 500]
+  },
+  "bone_horn_tatooine": {
+    "group_id": "bone_horn",
+    "parent_id": "bone_horn",
+    "dr": [200, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 500]
+  },
+  "bone_horn_yavin4": {
+    "group_id": "bone_horn",
+    "parent_id": "bone_horn",
+    "dr": [200, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [300, 700],
+    "ut": [1, 500]
+  },
+  "bone_mammal_chandrila": {
+    "group_id": "bone_mammal",
+    "parent_id": "bone",
+    "dr": [300, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [400, 1000],
+    "ut": [1, 1000]
+  },
+  "bone_mammal_corellia": {
+    "group_id": "bone_mammal",
+    "parent_id": "bone",
+    "dr": [300, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [400, 1000],
+    "ut": [1, 1000]
+  },
+  "bone_mammal_dantooine": {
+    "group_id": "bone_mammal",
+    "parent_id": "bone",
+    "dr": [300, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [400, 1000],
+    "ut": [1, 1000]
+  },
+  "bone_mammal_dathomir": {
+    "group_id": "bone_mammal",
+    "parent_id": "bone",
+    "dr": [300, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [400, 1000],
+    "ut": [1, 1000]
+  },
+  "bone_mammal_endor": {
+    "group_id": "bone_mammal",
+    "parent_id": "bone",
+    "dr": [300, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [400, 1000],
+    "ut": [1, 1000]
+  },
+  "bone_mammal_kuat": {
+    "group_id": "bone_mammal",
+    "parent_id": "bone",
+    "dr": [300, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [400, 1000],
+    "ut": [1, 1000]
+  },
+  "bone_mammal_lok": {
+    "group_id": "bone_mammal",
+    "parent_id": "bone",
+    "dr": [300, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [400, 1000],
+    "ut": [1, 1000]
+  },
+  "bone_mammal_naboo": {
+    "group_id": "bone_mammal",
+    "parent_id": "bone",
+    "dr": [300, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [400, 1000],
+    "ut": [1, 1000]
+  },
+  "bone_mammal_rori": {
+    "group_id": "bone_mammal",
+    "parent_id": "bone",
+    "dr": [300, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [400, 1000],
+    "ut": [1, 1000]
+  },
+  "bone_mammal_taanab": {
+    "group_id": "bone_mammal",
+    "parent_id": "bone",
+    "dr": [300, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [400, 1000],
+    "ut": [1, 1000]
+  },
+  "bone_mammal_talus": {
+    "group_id": "bone_mammal",
+    "parent_id": "bone",
+    "dr": [300, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [400, 1000],
+    "ut": [1, 1000]
+  },
+  "bone_mammal_tatooine": {
+    "group_id": "bone_mammal",
+    "parent_id": "bone",
+    "dr": [300, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [400, 1000],
+    "ut": [1, 1000]
+  },
+  "bone_mammal_yavin4": {
+    "group_id": "bone_mammal",
+    "parent_id": "bone",
+    "dr": [300, 1000],
+    "ma": [1, 500],
+    "oq": [1, 1000],
+    "sr": [400, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_bristley_chandrila": {
+    "group_id": "hide_bristley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_bristley_corellia": {
+    "group_id": "hide_bristley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_bristley_dantooine": {
+    "group_id": "hide_bristley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_bristley_dathomir": {
+    "group_id": "hide_bristley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_bristley_endor": {
+    "group_id": "hide_bristley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_bristley_kuat": {
+    "group_id": "hide_bristley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_bristley_lok": {
+    "group_id": "hide_bristley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_bristley_naboo": {
+    "group_id": "hide_bristley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_bristley_rori": {
+    "group_id": "hide_bristley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_bristley_taanab": {
+    "group_id": "hide_bristley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_bristley_talus": {
+    "group_id": "hide_bristley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_bristley_tatooine": {
+    "group_id": "hide_bristley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_bristley_yavin4": {
+    "group_id": "hide_bristley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_leathery_chandrila": {
+    "group_id": "hide_leathery",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_leathery_corellia": {
+    "group_id": "hide_leathery",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_leathery_dantooine": {
+    "group_id": "hide_leathery",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_leathery_dathomir": {
+    "group_id": "hide_leathery",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_leathery_endor": {
+    "group_id": "hide_leathery",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_leathery_kuat": {
+    "group_id": "hide_leathery",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_leathery_lok": {
+    "group_id": "hide_leathery",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_leathery_naboo": {
+    "group_id": "hide_leathery",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_leathery_rori": {
+    "group_id": "hide_leathery",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_leathery_taanab": {
+    "group_id": "hide_leathery",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_leathery_talus": {
+    "group_id": "hide_leathery",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_leathery_tatooine": {
+    "group_id": "hide_leathery",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_leathery_yavin4": {
+    "group_id": "hide_leathery",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_scaley_chandrila": {
+    "group_id": "hide_scaley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_scaley_corellia": {
+    "group_id": "hide_scaley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_scaley_dantooine": {
+    "group_id": "hide_scaley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_scaley_dathomir": {
+    "group_id": "hide_scaley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_scaley_endor": {
+    "group_id": "hide_scaley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_scaley_kuat": {
+    "group_id": "hide_scaley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_scaley_lok": {
+    "group_id": "hide_scaley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_scaley_naboo": {
+    "group_id": "hide_scaley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_scaley_rori": {
+    "group_id": "hide_scaley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_scaley_taanab": {
+    "group_id": "hide_scaley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_scaley_talus": {
+    "group_id": "hide_scaley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_scaley_tatooine": {
+    "group_id": "hide_scaley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_scaley_yavin4": {
+    "group_id": "hide_scaley",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_wooly_chandrila": {
+    "group_id": "hide_wooly",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_wooly_corellia": {
+    "group_id": "hide_wooly",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_wooly_dantooine": {
+    "group_id": "hide_wooly",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_wooly_dathomir": {
+    "group_id": "hide_wooly",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_wooly_endor": {
+    "group_id": "hide_wooly",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_wooly_kuat": {
+    "group_id": "hide_wooly",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_wooly_lok": {
+    "group_id": "hide_wooly",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_wooly_naboo": {
+    "group_id": "hide_wooly",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_wooly_rori": {
+    "group_id": "hide_wooly",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_wooly_taanab": {
+    "group_id": "hide_wooly",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_wooly_talus": {
+    "group_id": "hide_wooly",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_wooly_tatooine": {
+    "group_id": "hide_wooly",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "hide_wooly_yavin4": {
+    "group_id": "hide_wooly",
+    "parent_id": "hide",
+    "dr": [1, 1000],
+    "ma": [1, 1000],
+    "oq": [1, 1000],
+    "sr": [1, 1000],
+    "ut": [1, 1000]
+  },
+  "meat_avian_chandrila": {
+    "group_id": "meat_avian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_avian_corellia": {
+    "group_id": "meat_avian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_avian_dantooine": {
+    "group_id": "meat_avian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_avian_dathomir": {
+    "group_id": "meat_avian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_avian_endor": {
+    "group_id": "meat_avian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_avian_kuat": {
+    "group_id": "meat_avian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_avian_lok": {
+    "group_id": "meat_avian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_avian_naboo": {
+    "group_id": "meat_avian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_avian_rori": {
+    "group_id": "meat_avian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_avian_taanab": {
+    "group_id": "meat_avian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_avian_talus": {
+    "group_id": "meat_avian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_avian_tatooine": {
+    "group_id": "meat_avian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_avian_yavin4": {
+    "group_id": "meat_avian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_carnivore_chandrila": {
+    "group_id": "meat_carnivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_carnivore_corellia": {
+    "group_id": "meat_carnivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_carnivore_dantooine": {
+    "group_id": "meat_carnivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_carnivore_dathomir": {
+    "group_id": "meat_carnivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_carnivore_endor": {
+    "group_id": "meat_carnivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_carnivore_kuat": {
+    "group_id": "meat_carnivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_carnivore_lok": {
+    "group_id": "meat_carnivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_carnivore_naboo": {
+    "group_id": "meat_carnivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_carnivore_rori": {
+    "group_id": "meat_carnivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_carnivore_taanab": {
+    "group_id": "meat_carnivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_carnivore_talus": {
+    "group_id": "meat_carnivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_carnivore_tatooine": {
+    "group_id": "meat_carnivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_carnivore_yavin4": {
+    "group_id": "meat_carnivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_domesticated_chandrila": {
+    "group_id": "meat_domesticated",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_domesticated_corellia": {
+    "group_id": "meat_domesticated",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_domesticated_dantooine": {
+    "group_id": "meat_domesticated",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_domesticated_dathomir": {
+    "group_id": "meat_domesticated",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_domesticated_endor": {
+    "group_id": "meat_domesticated",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_domesticated_kuat": {
+    "group_id": "meat_domesticated",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_domesticated_lok": {
+    "group_id": "meat_domesticated",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_domesticated_naboo": {
+    "group_id": "meat_domesticated",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_domesticated_rori": {
+    "group_id": "meat_domesticated",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_domesticated_taanab": {
+    "group_id": "meat_domesticated",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_domesticated_talus": {
+    "group_id": "meat_domesticated",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_domesticated_tatooine": {
+    "group_id": "meat_domesticated",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_domesticated_yavin4": {
+    "group_id": "meat_domesticated",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_egg_chandrila": {
+    "group_id": "meat_egg",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_egg_corellia": {
+    "group_id": "meat_egg",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_egg_dantooine": {
+    "group_id": "meat_egg",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_egg_dathomir": {
+    "group_id": "meat_egg",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_egg_endor": {
+    "group_id": "meat_egg",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_egg_kuat": {
+    "group_id": "meat_egg",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_egg_lok": {
+    "group_id": "meat_egg",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_egg_naboo": {
+    "group_id": "meat_egg",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_egg_rori": {
+    "group_id": "meat_egg",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_egg_taanab": {
+    "group_id": "meat_egg",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_egg_talus": {
+    "group_id": "meat_egg",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_egg_tatooine": {
+    "group_id": "meat_egg",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_egg_yavin4": {
+    "group_id": "meat_egg",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_herbivore_chandrila": {
+    "group_id": "meat_herbivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_herbivore_corellia": {
+    "group_id": "meat_herbivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_herbivore_dantooine": {
+    "group_id": "meat_herbivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_herbivore_dathomir": {
+    "group_id": "meat_herbivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_herbivore_endor": {
+    "group_id": "meat_herbivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_herbivore_kuat": {
+    "group_id": "meat_herbivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_herbivore_lok": {
+    "group_id": "meat_herbivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_herbivore_naboo": {
+    "group_id": "meat_herbivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_herbivore_rori": {
+    "group_id": "meat_herbivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_herbivore_taanab": {
+    "group_id": "meat_herbivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_herbivore_talus": {
+    "group_id": "meat_herbivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_herbivore_tatooine": {
+    "group_id": "meat_herbivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_herbivore_yavin4": {
+    "group_id": "meat_herbivore",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "meat_insect_chandrila": {
+    "group_id": "meat_insect",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_insect_corellia": {
+    "group_id": "meat_insect",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_insect_dantooine": {
+    "group_id": "meat_insect",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_insect_dathomir": {
+    "group_id": "meat_insect",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_insect_endor": {
+    "group_id": "meat_insect",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_insect_kuat": {
+    "group_id": "meat_insect",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_insect_lok": {
+    "group_id": "meat_insect",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_insect_naboo": {
+    "group_id": "meat_insect",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_insect_rori": {
+    "group_id": "meat_insect",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_insect_taanab": {
+    "group_id": "meat_insect",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_insect_talus": {
+    "group_id": "meat_insect",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_insect_tatooine": {
+    "group_id": "meat_insect",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_insect_yavin4": {
+    "group_id": "meat_insect",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_reptillian_chandrila": {
+    "group_id": "meat_reptillian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_reptillian_corellia": {
+    "group_id": "meat_reptillian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_reptillian_dantooine": {
+    "group_id": "meat_reptillian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_reptillian_dathomir": {
+    "group_id": "meat_reptillian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_reptillian_endor": {
+    "group_id": "meat_reptillian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_reptillian_kuat": {
+    "group_id": "meat_reptillian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_reptillian_lok": {
+    "group_id": "meat_reptillian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_reptillian_naboo": {
+    "group_id": "meat_reptillian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_reptillian_rori": {
+    "group_id": "meat_reptillian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_reptillian_taanab": {
+    "group_id": "meat_reptillian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_reptillian_talus": {
+    "group_id": "meat_reptillian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_reptillian_tatooine": {
+    "group_id": "meat_reptillian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_reptillian_yavin4": {
+    "group_id": "meat_reptillian",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "meat_wild_chandrila": {
+    "group_id": "meat_wild",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_wild_corellia": {
+    "group_id": "meat_wild",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_wild_dantooine": {
+    "group_id": "meat_wild",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_wild_dathomir": {
+    "group_id": "meat_wild",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_wild_endor": {
+    "group_id": "meat_wild",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_wild_kuat": {
+    "group_id": "meat_wild",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_wild_lok": {
+    "group_id": "meat_wild",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_wild_naboo": {
+    "group_id": "meat_wild",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_wild_rori": {
+    "group_id": "meat_wild",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_wild_taanab": {
+    "group_id": "meat_wild",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_wild_talus": {
+    "group_id": "meat_wild",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_wild_tatooine": {
+    "group_id": "meat_wild",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "meat_wild_yavin4": {
+    "group_id": "meat_wild",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "milk_domesticated_chandrila": {
+    "group_id": "milk_domesticated",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "milk_domesticated_corellia": {
+    "group_id": "milk_domesticated",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "milk_domesticated_dantooine": {
+    "group_id": "milk_domesticated",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "milk_domesticated_dathomir": {
+    "group_id": "milk_domesticated",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "milk_domesticated_endor": {
+    "group_id": "milk_domesticated",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "milk_domesticated_kuat": {
+    "group_id": "milk_domesticated",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "milk_domesticated_lok": {
+    "group_id": "milk_domesticated",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "milk_domesticated_naboo": {
+    "group_id": "milk_domesticated",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "milk_domesticated_rori": {
+    "group_id": "milk_domesticated",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "milk_domesticated_taanab": {
+    "group_id": "milk_domesticated",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "milk_domesticated_talus": {
+    "group_id": "milk_domesticated",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "milk_domesticated_tatooine": {
+    "group_id": "milk_domesticated",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "milk_domesticated_yavin4": {
+    "group_id": "milk_domesticated",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [1, 700],
+    "oq": [1, 1000],
+    "pe": [300, 1000]
+  },
+  "milk_wild_chandrila": {
+    "group_id": "milk_wild",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "milk_wild_corellia": {
+    "group_id": "milk_wild",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "milk_wild_dantooine": {
+    "group_id": "milk_wild",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "milk_wild_dathomir": {
+    "group_id": "milk_wild",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "milk_wild_endor": {
+    "group_id": "milk_wild",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "milk_wild_kuat": {
+    "group_id": "milk_wild",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "milk_wild_lok": {
+    "group_id": "milk_wild",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "milk_wild_naboo": {
+    "group_id": "milk_wild",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "milk_wild_rori": {
+    "group_id": "milk_wild",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "milk_wild_taanab": {
+    "group_id": "milk_wild",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "milk_wild_talus": {
+    "group_id": "milk_wild",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "milk_wild_tatooine": {
+    "group_id": "milk_wild",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "milk_wild_yavin4": {
+    "group_id": "milk_wild",
+    "parent_id": "milk",
+    "dr": [1, 1000],
+    "fl": [300, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 700]
+  },
+  "seafood_crustacean_chandrila": {
+    "group_id": "seafood_crustacean",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_crustacean_corellia": {
+    "group_id": "seafood_crustacean",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_crustacean_dantooine": {
+    "group_id": "seafood_crustacean",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_crustacean_dathomir": {
+    "group_id": "seafood_crustacean",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_crustacean_endor": {
+    "group_id": "seafood_crustacean",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_crustacean_kuat": {
+    "group_id": "seafood_crustacean",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_crustacean_lok": {
+    "group_id": "seafood_crustacean",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_crustacean_naboo": {
+    "group_id": "seafood_crustacean",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_crustacean_rori": {
+    "group_id": "seafood_crustacean",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_crustacean_taanab": {
+    "group_id": "seafood_crustacean",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_crustacean_talus": {
+    "group_id": "seafood_crustacean",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_crustacean_tatooine": {
+    "group_id": "seafood_crustacean",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_crustacean_yavin4": {
+    "group_id": "seafood_crustacean",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_fish_chandrila": {
+    "group_id": "seafood_fish",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_fish_corellia": {
+    "group_id": "seafood_fish",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_fish_dantooine": {
+    "group_id": "seafood_fish",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_fish_dathomir": {
+    "group_id": "seafood_fish",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_fish_endor": {
+    "group_id": "seafood_fish",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_fish_kuat": {
+    "group_id": "seafood_fish",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_fish_lok": {
+    "group_id": "seafood_fish",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_fish_naboo": {
+    "group_id": "seafood_fish",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_fish_rori": {
+    "group_id": "seafood_fish",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_fish_taanab": {
+    "group_id": "seafood_fish",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_fish_talus": {
+    "group_id": "seafood_fish",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_fish_tatooine": {
+    "group_id": "seafood_fish",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_fish_yavin4": {
+    "group_id": "seafood_fish",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_mollusk_chandrila": {
+    "group_id": "seafood_mollusk",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_mollusk_corellia": {
+    "group_id": "seafood_mollusk",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_mollusk_dantooine": {
+    "group_id": "seafood_mollusk",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_mollusk_dathomir": {
+    "group_id": "seafood_mollusk",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_mollusk_endor": {
+    "group_id": "seafood_mollusk",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_mollusk_kuat": {
+    "group_id": "seafood_mollusk",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_mollusk_lok": {
+    "group_id": "seafood_mollusk",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_mollusk_naboo": {
+    "group_id": "seafood_mollusk",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_mollusk_rori": {
+    "group_id": "seafood_mollusk",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_mollusk_taanab": {
+    "group_id": "seafood_mollusk",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_mollusk_talus": {
+    "group_id": "seafood_mollusk",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_mollusk_tatooine": {
+    "group_id": "seafood_mollusk",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  },
+  "seafood_mollusk_yavin4": {
+    "group_id": "seafood_mollusk",
+    "parent_id": "meat",
+    "dr": [1, 1000],
+    "fl": [1, 1000],
+    "oq": [1, 1000],
+    "pe": [1, 1000]
+  }
+}
