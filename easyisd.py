@@ -240,7 +240,7 @@ def main():
     new_count, oq_average = submit_spawns(exp_names, new_urls, galaxy_id, token, submit_what)
 
     # send discord messages
-    notify_discord = True
+    notify_discord = False
     if notify_discord and new_count > 0:
         CH.cprint("\nDiscord notification")
         GH.send_to_discord_webhooks(new_count, oq_average)
